@@ -11,7 +11,6 @@ Refatoração de consultas e padronização de boas práticas para reduzir proce
 | Volume de dados processado | **−60%** |
 | Custo mensal BigQuery (jul/25 → ago/25 previsto) | R$ 8.227,85 → R$ 3.718,09 |
 | **Economia mensal** | **R$ 4.509,76 (−54,81%)** |
-| Tempo de resposta | [preencher] |
 
 > Agosto/2025 é parcial: realizado de 1 a 11/ago (R$ 1.663,25) + previsão do Cloud Billing. Atualizar após o fechamento do mês.
 
