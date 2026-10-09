@@ -2,8 +2,6 @@
 
 Refatoração de consultas e padronização de boas práticas para reduzir processamento e custo em tabelas de BigData.
 
-**Status:** Encerrado · **Responsável:** [preencher] · **Período:** [preencher]
-
 ## Resultados
 
 | Indicador | Resultado |
